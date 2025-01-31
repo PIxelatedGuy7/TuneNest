@@ -104,7 +104,7 @@ nav ul li{
     height: 200px;
     margin: 20px 20px;
     position: relative;
-    left:40px;
+    left: 40px;
     display: block;
     
 }
@@ -131,19 +131,5 @@ nav ul li{
     opacity: 0;
     transition: opacity 0.4s ease-in;
 }
-@media (max-width: 768px) {
-    .songItem {
-        height: 250px;
-        width: 150px; 
-        margin: 10px; 
-    }
 
-    .songItem img {
-        width: 150px; 
-        height: 150px;
-        position:relative;
-        left:77px;
-        margin: 10px 0;
-    }
-}
 
