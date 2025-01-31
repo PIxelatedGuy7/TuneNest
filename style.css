@@ -132,4 +132,16 @@ nav ul li{
     transition: opacity 0.4s ease-in;
 }
 
+@media (max-width: 768px) {
+    .songItem {
+        height: 250px;
+        width: 150px; 
+        margin: 10px; 
+    }
 
+    .songItem img {
+        width: 163px; 
+        height: 163px;
+        margin: 10px 0;
+    }
+}
