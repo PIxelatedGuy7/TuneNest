@@ -104,6 +104,7 @@ nav ul li{
     height: 200px;
     margin: 20px 20px;
     position: relative;
+    right:40px;
     display: block;
     
 }
@@ -131,8 +132,4 @@ nav ul li{
     transition: opacity 0.4s ease-in;
 }
 
-@media only screen and (max-width: 1100px) {
-    body {
-      background-color: red;
-    }
-  }
+
